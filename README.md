@@ -1,0 +1,2 @@
+# Golang
+Wierd Code Resource
